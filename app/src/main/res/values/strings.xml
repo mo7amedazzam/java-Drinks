@@ -1,0 +1,27 @@
+<resources>
+
+    <string name="app_name">Drinks</string>
+
+    <string-array name="N_Drinks">
+        <item> Coffee </item>
+        <item>Espresso</item>
+        <item>milkshake</item>
+        <item> Juice</item>
+        <item>Tea</item>
+        <item>Cola</item>
+
+
+    </string-array>
+
+    <string-array name="P_Drinks">
+        <item>"2.00$"</item>
+        <item>"2.00$"</item>
+        <item>"2.50$"</item>
+        <item>"2.20$"</item>
+        <item>"2.00$"</item>
+        <item>"2.00$"</item>
+
+    </string-array>
+
+
+</resources>
